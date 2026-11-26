@@ -1,0 +1,13 @@
+{
+  "name": "x-ads-campaign",
+  "description": "Build, review and launch a small X Ads promoted-post campaign through X's official Ads MCP server, with an approval gate before anything spends money. The gate is an instruction to the model, not a technical lock.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Arun Sharma",
+    "url": "https://github.com/arunshar"
+  },
+  "homepage": "https://github.com/arunshar/claude-x-ads-skill",
+  "repository": "https://github.com/arunshar/claude-x-ads-skill",
+  "license": "MIT",
+  "keywords": ["ads", "x-ads", "advertising", "mcp", "campaign", "spend-gate"]
+}

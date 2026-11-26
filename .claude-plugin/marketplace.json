@@ -1,0 +1,21 @@
+{
+  "name": "claude-x-ads-skill",
+  "owner": {
+    "name": "Arun Sharma"
+  },
+  "metadata": {
+    "description": "A skill for running a small X Ads campaign from Claude Code with a human approval before any spend."
+  },
+  "plugins": [
+    {
+      "name": "x-ads-campaign",
+      "source": "./",
+      "description": "Build, review and launch a small X Ads promoted-post campaign through X's official Ads MCP server, with an approval gate before anything spends money. The gate is an instruction to the model, not a technical lock.",
+      "author": {
+        "name": "Arun Sharma"
+      },
+      "keywords": ["ads", "x-ads", "advertising", "mcp", "campaign"],
+      "category": "productivity"
+    }
+  ]
+}
